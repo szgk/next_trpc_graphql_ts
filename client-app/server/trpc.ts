@@ -1,5 +1,5 @@
 // src/server/trpc.ts
-import { initTRPC } from @trpc/server;
+import { initTRPC } from "@trpc/server";
 
 const t = initTRPC.create();
 
