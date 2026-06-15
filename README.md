@@ -5,5 +5,6 @@ next, ts のキャッチアップ用
 - typescript
 - tRPC
 - drizzle
+- yoga
 - graphql
 - postgress
