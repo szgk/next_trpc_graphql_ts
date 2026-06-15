@@ -1,1 +1,9 @@
-# tRPC_React_Test
+# next_trpc_graphql_ts
+
+next, ts のキャッチアップ用
+- next.js
+- typescript
+- tRPC
+- drizzle
+- graphql
+- postgress
