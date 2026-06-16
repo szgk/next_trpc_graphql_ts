@@ -34,6 +34,7 @@ export default function Home() {
                     id: task.id,
                   });
                 }}
+                className="ml-4 text-red-500 border border-red-500 rounded px-2 py-1 hover:bg-red-500 hover:text-white transition-colors duration-300"
               >
                 削除
               </button>
